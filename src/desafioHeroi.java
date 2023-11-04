@@ -36,7 +36,7 @@ public class desafioHeroi {
         }else{
            System.out.println("O Herói de nome " + nomeHeroi + " está no nível de Radiante"); 
         }
-    dado.close();    
+   dado.close();    
 
     }
 }    
